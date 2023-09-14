@@ -1,0 +1,123 @@
+body { 
+  margin: 0;
+
+}
+span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(247, 135, 8);
+    margin-left: 10px;
+  }
+  #hos {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 106, 255);
+    margin-left: 10px;
+    }
+
+.headdiv {
+  overflow: hidden;
+  background-color: #8ECDDD;
+  padding: 20px 10px;
+}
+.menu{
+    margin-left: 550px;
+
+}
+.foot{
+    margin-left: 200px;
+}
+.footer {
+    background-color: black;
+}
+summary{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.footdiv p {
+    float: left;
+    color: black;
+    text-align: center;
+    font-size: medium;
+    padding: 5px;
+    border-style: dotted;
+    margin-left: 30px;
+    text-decoration: none;
+    width: 260px;
+    height: 70px;
+    font-size: 20px;
+  }
+  .footdiv {
+    overflow: hidden;
+    background-color: #8ECDDD;
+    padding: 20px 10px;
+  }
+p a{
+    text-decoration: none;
+    color:black;
+}
+.headdiv a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 5px;
+  border-style: solid;
+  margin-left: 30px;
+  text-decoration: none;
+}
+.headdiv a:hover {
+   background-color: #f6a650;
+  color:black;
+}
+.sechead{
+    color: #ff8401;
+}
+#divbody{
+    padding: 20px;
+    background-image: url(hand-painted-watercolor-pastel-sky-background_23-2148902771.avif);
+    background-size: cover;
+}
+#divimg{
+    float: left;
+    padding-right: 150px;
+    padding-left: 20px;
+}
+#para{
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+#careimg{
+    padding: 15px;
+}
+#param{
+    font-size: larger;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#divreg{
+    border-style: solid;
+    border-color: #0b90aa;
+    width: 800px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 550;
+    margin-top: 50px;    
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    background-image: url(What-are-Vitrified-Tiles_Most-Read.webp);
+    background-size: cover;
+    align-items: center;
+    opacity: 0.9;
+}
+.buttoncolor{
+    background-color:rgb(27, 122, 190); 
+    color: white;
+    border-radius: 3em;
+    border-color: rgb(12, 53, 163);
+    height: 2em;
+    width: 6em;
+}
+#careh{
+    color: #072999;
+    font-size: 20px;
+}
